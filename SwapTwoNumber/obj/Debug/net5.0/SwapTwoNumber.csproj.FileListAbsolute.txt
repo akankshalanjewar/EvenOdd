@@ -1,0 +1,16 @@
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\bin\Debug\net5.0\SwapTwoNumber.exe
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\bin\Debug\net5.0\SwapTwoNumber.deps.json
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\bin\Debug\net5.0\SwapTwoNumber.runtimeconfig.json
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\bin\Debug\net5.0\SwapTwoNumber.runtimeconfig.dev.json
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\bin\Debug\net5.0\SwapTwoNumber.dll
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\bin\Debug\net5.0\SwapTwoNumber.pdb
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.csproj.AssemblyReference.cache
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.AssemblyInfoInputs.cache
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.AssemblyInfo.cs
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.csproj.CoreCompileInputs.cache
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.dll
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\refint\SwapTwoNumber.dll
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.pdb
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\SwapTwoNumber.genruntimeconfig.cache
+C:\Bridgelabz\EvenOdd\SwapTwoNumber\obj\Debug\net5.0\ref\SwapTwoNumber.dll
